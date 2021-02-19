@@ -2,10 +2,11 @@
 home: true
 heroImage: /cloud.jpg
 actionText: 快速登录 →
-actionLink: http://localhost:8002
+actionLink: http://49.233.90.54
+<img src="/architect.jpg"/>
 features:
 - title: 数据平台间自由流动
-  details: 全面支持VMware, Hyper-V，Xen等虚拟化平台，Openstack等各种私有云，及阿里云，腾讯云，华为云，百度云等各种公有云。
+  details: 全面支持VMware, Hyper-V，Xen等虚拟化平台，Openstack等各种私有云，及阿里云，腾讯云，华为云，百度智能云等各种公有云。
 - title: 混合云备份，容灾
   details: 支持最小间隔15分钟的整机快照备份，也支持RPO=0的整机主备容灾，目标端既可设置在公有云上，也可设置在云下虚拟化环境中。
 - title: 持续数据保护(CDP)
