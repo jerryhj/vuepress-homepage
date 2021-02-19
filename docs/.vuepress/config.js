@@ -52,7 +52,7 @@ module.exports = {
           { text: '数据流动上云', link: '/up_cloud/migrate.md' },
           { text: '数据云间流动', link: '/cross_cloud/migrate.md' },
           { text: '数据流动下云', link: '/down_cloud/migrate.md' },
-          { text: 'SAAS系统登录', link: 'http://localhost:8002' },
+          { text: 'SAAS系统登录', link: 'http://49.233.90.54' },
         ]
     }
 }
