@@ -3,7 +3,6 @@ home: true
 heroImage: /cloud.jpg
 actionText: 快速登录 →
 actionLink: http://49.233.90.54
-<img src="/architect.jpg"/>
 features:
 - title: 数据平台间自由流动
   details: 全面支持VMware, Hyper-V，Xen等虚拟化平台，Openstack等各种私有云，及阿里云，腾讯云，华为云，百度智能云等各种公有云。
@@ -19,3 +18,5 @@ features:
   details: 虚拟机秒级启动，数据按需恢复，不做整机恢复就不用恢复全部数据，不需要的数据无需恢复，降低恢复数据量，适合数据验证和恢复演练。
 footer: Copyright © 2020-present xxxxxx
 ---
+系统架构
+<img src="/architect.jpg"/>
